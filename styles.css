@@ -1,5 +1,7 @@
 h1 {
-	color: blue;
+	color: maroon;
+	font-family: 'Aclonica';
+	font-size: 40px;
 	}
 body {
 	background: lightblue;
@@ -7,5 +9,3 @@ body {
 	font-size: 20 pt; 
 	font-family: 'Oswald', sans-serif;
 	}
-		
-.intro
