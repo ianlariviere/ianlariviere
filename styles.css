@@ -16,3 +16,7 @@ body {
 	border: 4 px solid OrangeRed;
 	border-radius: 5px;
 	}
+#myDiv {visibility: hidden; 
+      border: 5px solid red;
+      position: fixed; left:50px; top:150px}
+button {position: fixed; left:50px; top:250px}
